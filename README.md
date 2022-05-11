@@ -4,7 +4,7 @@ It can parse USB keyboard scancodes to chars (keys) also mouse position...
 
 (nothing guaranteed)
 
-![Image description](https://github.com/nathalis/ESP32-USB-SOFTHOST1.1-LOWSPEED-KEYBOARD-AND-MOUSE/blob/main/US_PC_keyboard_keycodes.png)
+![Image description](https://github.com/Goodwu/ESP32-USB-SOFTHOST1.1-LOWSPEED-KEYBOARD-AND-MOUSE/blob/main/US_PC_keyboard_keycodes.png)
 
 USB 1.1 has 2 modes:
 --------------------
@@ -13,11 +13,11 @@ FULL SPEED = 12Mbit/s (not supported yet)
 
 ### connection:
 
-![Image description](https://github.com/nathalis/ESP32-USB-SOFTHOST1.1-LOWSPEED-KEYBOARD-AND-MOUSE/blob/main/connection.png)
+![Image description](https://github.com/Goodwu/ESP32-USB-SOFTHOST1.1-LOWSPEED-KEYBOARD-AND-MOUSE/blob/main/connection.png)
 
 or you can change GPIO > 7 and GPIO < 31, must be INPUT/OUTPUT...
 
-![Image description](https://github.com/nathalis/ESP32-USB-SOFTHOST1.1-LOWSPEED-KEYBOARD-AND-MOUSE/blob/main/ESP32USBHOST/ESP32USBKEYBOARD_Serial_monitor.png)
+![Image description](https://github.com/Goodwu/ESP32-USB-SOFTHOST1.1-LOWSPEED-KEYBOARD-AND-MOUSE/blob/main/ESP32USBHOST/ESP32USBKEYBOARD_Serial_monitor.png)
 
 
 ### future idea:
